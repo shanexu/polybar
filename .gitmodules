@@ -1,3 +1,6 @@
 [submodule "light-polybar-windows"]
 	path = light-polybar-windows
 	url = https://github.com/shanexu/light-polybar-windows.git
+[submodule "polybar-spotify"]
+	path = polybar-spotify
+	url = https://github.com/shanexu/polybar-spotify.git
